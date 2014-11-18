@@ -55,8 +55,11 @@ docs/_build/
 target/
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Labs/Lab12/beer_reviews.tar.gz
 
+=======
+>>>>>>> e415de2133e1f20b50cae5cd42889da197ffd4a3
 =======
 >>>>>>> e415de2133e1f20b50cae5cd42889da197ffd4a3
 Labs/Lab11/housing.sqlite
